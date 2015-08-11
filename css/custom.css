@@ -11,3 +11,6 @@ body {
 .centered-text {
 	text-align: center;
 }
+.top-buffer {
+	margin-top: 30px;
+}
